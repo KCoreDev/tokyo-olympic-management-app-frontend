@@ -1,0 +1,54 @@
+.olympic_hompage-container_athlete {
+  display: flex;
+  flex-direction: column;
+}
+
+.olympic_hompage-container_athlete-image img {
+  width: 90%;
+  height: 90%;
+  cursor: pointer;
+}
+
+.olympic_hompage-container_athlete-content {
+  display: flex;
+  flex-direction: column;
+  justify-content: space-between;
+  height: 100%;
+}
+
+.olympic_hompage-container_athlete-content h2 {
+  font-size: 25px;
+  font-weight: 800;
+  cursor: pointer;
+  text-align: center;
+}
+
+.olympic_hompage-container_athlete-content p {
+  font-size: 15px;
+  font-weight: 700;
+  line-height: 35px;
+  text-align: center;
+}
+
+.olympic_hompage-container_athlete-table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.olympic_hompage-container_athlete-table th {
+  padding-left: 15px;
+  padding-right: 5rem;
+}
+
+.olympic_hompage-container_athlete-table td {
+  padding-left: 15px;
+  padding-right: 15px;
+}
+
+.olympic_hompage-container_athlete-table tr th {
+  border: 1px solid black;
+}
+
+.olympic_hompage-container_athlete-table tr td {
+  border: 1px solid black;
+}

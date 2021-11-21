@@ -1,0 +1,9 @@
+.topic {
+  display: flex;
+  justify-content: center;
+  align-items: center;
+}
+
+.topic h1 {
+  padding-bottom: 10px;
+}

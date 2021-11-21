@@ -1,0 +1,92 @@
+.createathlete_container {
+  display: flex;
+  align-items: flex-start;
+}
+
+.createathlete_container-input {
+  display: flex;
+  flex-direction: column;
+}
+
+.createathlete_container-input div {
+  margin: 20px 20px;
+}
+
+.createathlete_container-input-firstname {
+  margin-left: 17.8rem;
+}
+
+.createathlete_container-input-lastname {
+  margin-left: 17.8rem;
+}
+
+.createathlete_container-input-gender {
+  margin-left: 19.5rem;
+  padding: 5px 5px;
+}
+
+.createathlete_container-input-date-of-birth {
+  margin-left: 17rem;
+}
+
+.createathlete_container-input-country {
+  margin-left: 19.1rem; 
+  margin-top: -5rem;
+}
+
+.createathlete_container-input-upload-img input {
+  margin-left: 15.7rem;
+}
+
+
+.createathlete_container-input-events {
+  margin-left: 19.8rem;
+  padding: 5px 5px;
+}
+
+.createathlete_container-input-table {
+  margin-left: auto;
+  margin-right: auto;
+}
+
+.createathlete_container-input-table tr th {
+  border: 1px solid black;
+  padding: 15px;
+}
+
+.createathlete_container-input-table tr td {
+  border: 1px solid black;
+  padding-left: 20px;
+}
+
+.createathlete_container-button {
+  display: flex;
+  justify-content: flex-end;
+  flex-direction: row;
+}
+
+.createathlete_container-button button {
+  cursor: pointer;
+  margin-left: 15px;
+}
+
+.createathlete_container-image {
+  display: flex;
+  justify-content: center;
+
+  padding-top: 5rem;
+}
+
+.createathlete_container-upload-image-input {
+  display: flex;
+  margin-top: 10rem;
+  margin-left: 5rem;
+  height: 300px;
+}
+
+.createathlete_container-input-form-error {
+  color: red;
+}
+
+
+
